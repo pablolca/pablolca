@@ -43,7 +43,7 @@
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/pablolca/EntregaFrameworks">🌱 EntregaFrameworks</a></h3>
+      <h3><a href="https://github.com/pablolca/Aulario">🌱 Aulario</a></h3>
       <p>API web con Spring Boot, Spring Data JPA, validación y MySQL / H2.</p>
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
